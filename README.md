@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayub | AWS & DevOps Enthusiast
+# 👋 Hi, I'm Ayoub | AWS & DevOps Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ermohdayoub&color=brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/ermohdayoub?label=Followers&style=social)
