@@ -48,6 +48,11 @@ Designed and deployed a production-level 3-tier architecture using VPC, ALB, EC2
 **Stack:** VPC, EC2, RDS, Load Balancer, Linux  
 🔗 Project Repo: https://github.com/ermohdayoub/Three-Tier-Web-Application-on-AWS-High-Availability-Architecture-
 
+### 🔹 **Linux Hands-On Challenge for DevOps Engineers**
+A complete beginner-to-advanced Linux challenge covering user & group management, permissions, networking, monitoring, shell scripting, automation (cron), log rotation, and resource monitoring.  
+Includes scripts like `backup.sh`, `cleanup.sh`, `rotate_logs.sh`, `resource_monitor.sh`, and `bulk_user_add.sh`.  
+🔗 Project Repo: https://github.com/ermohdayoub/Linux-Hands-On-Challenge-for-DevOps-Engineers
+
 
 ---
 
