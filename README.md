@@ -53,6 +53,12 @@ A complete beginner-to-advanced Linux challenge covering user & group management
 Includes scripts like `backup.sh`, `cleanup.sh`, `rotate_logs.sh`, `resource_monitor.sh`, and `bulk_user_add.sh`.  
 🔗 Project Repo: https://github.com/ermohdayoub/Linux-Hands-On-Challenge-for-DevOps-Engineers
 
+### 🔹 **AWS EC2 Monitoring Using Prometheus, Node Exporter & Grafana**
+Setup a complete monitoring stack on EC2 using Prometheus for metrics, Node Exporter for system-level monitoring, and Grafana for dashboards.  
+Includes CPU, memory, disk I/O, network monitoring with systemd services and scrape configurations.  
+**Stack:** Prometheus, Node Exporter, Grafana, EC2, Linux  
+🔗 Project Repo: https://github.com/ermohdayoub/aws-prometheus-grafana-monitoring
+
 
 ---
 
