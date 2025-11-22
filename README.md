@@ -46,6 +46,7 @@
 ### 🔹 **Wanderlust – Full-Stack CI/CD Pipeline (Jenkins, Docker, Docker Compose, AWS EC2)**
 Designed and implemented a fully automated CI/CD pipeline for a production-grade full-stack application using Jenkins Pipeline, Docker, Docker Compose, and AWS EC2. Integrated Node.js backend, React frontend, and MongoDB into containerized micro-services with automated deployment triggered via Jenkins.
 Stack: Jenkins, Docker, Docker Compose, Node.js, React, MongoDB, AWS EC2, Linux
+
 🔗 Project Repo: https://github.com/ermohdayoub/Wanderlust-Full-Stack-CI-CD-Pipeline-Jenkins-Docker-Compose-AWS-
 ### 🔹 **Three-Tier Web Application on AWS (High Availability Architecture)**
 Designed and deployed a production-level 3-tier architecture using VPC, ALB, EC2, RDS, NAT, phpMyAdmin.  
