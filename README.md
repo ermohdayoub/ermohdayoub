@@ -64,6 +64,11 @@ Includes CPU, memory, disk I/O, network monitoring with systemd services and scr
 **Stack:** Prometheus, Node Exporter, Grafana, EC2, Linux  
 🔗 Project Repo: https://github.com/ermohdayoub/aws-prometheus-grafana-monitoring
 
+### 🔹 **Implemented Full DevOps Pipeline for React App – Build, Deploy, Dockerize (AWS EC2, Jenkins, Docker, Nginx)**
+Designed and implemented a complete end-to-end DevOps workflow for deploying a React application on AWS EC2. Automated the entire build and deployment process using Jenkins Pipeline, integrated PM2 for process management, configured Nginx as a reverse proxy, secured the server using UFW, and containerized the application with Docker & Docker Compose. Build artifacts were also uploaded to S3 via Jenkins for storage and versioning.
+Stack: AWS EC2, Jenkins, Node.js, React, PM2, Nginx, Docker, Docker Compose, UFW, S3, Linux
+🔗 Project Repo: https://github.com/ermohdayoub/-Implemented-Full-DevOps-Pipeline-for-React-App-Build-Deploy-Dockerize
+
 
 ---
 
