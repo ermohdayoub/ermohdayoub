@@ -78,6 +78,8 @@ Includes CPU, memory, disk I/O, network monitoring with systemd services and scr
 ## 🎓 Certifications  
   ![aws cloud practitioner certificate_page-0001](https://github.com/user-attachments/assets/4058ab23-0849-4579-a02a-071de793d93b)
  <img width="2000" height="1414" alt="MOHD AYOUB (2)" src="https://github.com/user-attachments/assets/67633dc6-b794-4060-9b1e-cccfe35b7599" />
+ <img width="2000" height="1414" alt="MOHD AYOUB (1)" src="https://github.com/user-attachments/assets/3b11ef58-e876-4302-bfb2-0065578dc726" />
+
 
 ---
 
