@@ -85,6 +85,8 @@ Stack: AWS EC2, Jenkins, Node.js, React, PM2, Nginx, Docker, Docker Compose, UFW
  <img width="2000" height="1414" alt="MOHD AYOUB (2)" src="https://github.com/user-attachments/assets/67633dc6-b794-4060-9b1e-cccfe35b7599" />
  <img width="2000" height="1414" alt="MOHD AYOUB (1)" src="https://github.com/user-attachments/assets/3b11ef58-e876-4302-bfb2-0065578dc726" />
 
+![1765![IMG_20251125_012609](https://github.com/user-attachments/assets/31bd4852-0fc5-4510-bb88-3a5c24562c5a)
+216706697-certificate](https://github.com/user-attachments/assets/f6cab1aa-5817-4495-82a3-88ad0d5acf60)
 
 ---
 
