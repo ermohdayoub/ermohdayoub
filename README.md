@@ -88,6 +88,9 @@ Stack: AWS EC2, Jenkins, Node.js, React, PM2, Nginx, Docker, Docker Compose, UFW
 ![1765![IMG_20251125_012609](https://github.com/user-attachments/assets/31bd4852-0fc5-4510-bb88-3a5c24562c5a)
 216706697-certificate](https://github.com/user-attachments/assets/f6cab1aa-5817-4495-82a3-88ad0d5acf60)
 
+![IMG_20251125_012609](https://github.com/user-attachments/assets/2d2f476c-5bce-4b96-86b2-307fed28c616)
+
+
 ---
 
 ## 😄 Fun Facts  
